@@ -35,5 +35,10 @@
     .steps {
         margin: 0;
     }
+}
 
+@media screen and (min-width: 768px) {
+    .container {
+        width: 60%;
+    }
 }
